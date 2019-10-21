@@ -1,0 +1,27 @@
+C:\Users\beangreen247\source\repos\neuralnetwork\neuralnetwork\bin\Debug\neuralnetwork.exe.config
+C:\Users\beangreen247\source\repos\neuralnetwork\neuralnetwork\bin\Debug\neuralnetwork.exe
+C:\Users\beangreen247\source\repos\neuralnetwork\neuralnetwork\bin\Debug\neuralnetwork.pdb
+C:\Users\beangreen247\source\repos\neuralnetwork\neuralnetwork\obj\Debug\neuralnetwork.csproj.CoreCompileInputs.cache
+C:\Users\beangreen247\source\repos\neuralnetwork\neuralnetwork\obj\Debug\neuralnetwork.exe
+C:\Users\beangreen247\source\repos\neuralnetwork\neuralnetwork\obj\Debug\neuralnetwork.pdb
+C:\Users\beangreen247\source\repos\neuralnetwork\neuralnetwork\obj\Debug\neuralnetwork.csprojAssemblyReference.cache
+E:\PROJEKT PRG\neuralnetwork\neuralnetwork\bin\Debug\neuralnetwork.exe.config
+E:\PROJEKT PRG\neuralnetwork\neuralnetwork\obj\Debug\neuralnetwork.exe
+E:\PROJEKT PRG\neuralnetwork\neuralnetwork\obj\Debug\neuralnetwork.pdb
+E:\PROJEKT PRG\neuralnetwork\neuralnetwork\bin\Debug\neuralnetwork.exe
+E:\PROJEKT PRG\neuralnetwork\neuralnetwork\bin\Debug\neuralnetwork.pdb
+H:\PROJEKT PRG\neuralnetwork\neuralnetwork\bin\Debug\neuralnetwork.exe.config
+H:\PROJEKT PRG\neuralnetwork\neuralnetwork\bin\Debug\neuralnetwork.exe
+H:\PROJEKT PRG\neuralnetwork\neuralnetwork\bin\Debug\neuralnetwork.pdb
+H:\PROJEKT PRG\neuralnetwork\neuralnetwork\obj\Debug\neuralnetwork.csprojResolveAssemblyReference.cache
+H:\PROJEKT PRG\neuralnetwork\neuralnetwork\obj\Debug\neuralnetwork.exe
+H:\PROJEKT PRG\neuralnetwork\neuralnetwork\obj\Debug\neuralnetwork.pdb
+F:\PROJEKT PRG\neuralnetwork\neuralnetwork\bin\Debug\neuralnetwork.exe.config
+F:\PROJEKT PRG\neuralnetwork\neuralnetwork\bin\Debug\neuralnetwork.exe
+F:\PROJEKT PRG\neuralnetwork\neuralnetwork\bin\Debug\neuralnetwork.pdb
+F:\PROJEKT PRG\neuralnetwork\neuralnetwork\obj\Debug\neuralnetwork.csproj.CoreCompileInputs.cache
+F:\PROJEKT PRG\neuralnetwork\neuralnetwork\obj\Debug\neuralnetwork.exe
+F:\PROJEKT PRG\neuralnetwork\neuralnetwork\obj\Debug\neuralnetwork.pdb
+F:\PROJEKT PRG\neuralnetwork\neuralnetwork\obj\Debug\neuralnetwork.csprojAssemblyReference.cache
+E:\PROJEKT PRG\neuralnetwork\neuralnetwork\obj\Debug\neuralnetwork.csprojAssemblyReference.cache
+E:\PROJEKT PRG\neuralnetwork\neuralnetwork\obj\Debug\neuralnetwork.csproj.CoreCompileInputs.cache
